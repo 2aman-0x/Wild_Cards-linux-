@@ -67,7 +67,7 @@ __Find all files that start with a capital letter [A-Z]__
 
 ---
 
-### Questions:###
+### Questions:
 
 __1) How would you list all files that start with the letter "a" amd emd with.sh in the current directory?__
 
