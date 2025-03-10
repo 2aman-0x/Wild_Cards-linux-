@@ -83,4 +83,6 @@ __3) How can you delete all files that have "backup" somewhere in their filename
 - ```ls  *backup*```
 - ```rm *backup*```
 
+__4)  Write a grep command to find lines that contain a date in the format YYYY-MM-DD in a file.__
 
+- grep -E '/b[0-9]{4}-[0-9]{2}-[0-9]{2}\b` dates.txt
